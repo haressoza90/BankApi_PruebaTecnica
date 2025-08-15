@@ -1,0 +1,29 @@
+.vs/
+# Archivos de usuario de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Salidas de compilacion
+bin/
+obj/
+
+# Archivos de dependencias
+packages/
+*.nupkg
+
+# Archivos generados por el sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de logs
+*.log
+
+# Archivos de base de datos generados automaticamente
+*.db
+
+# Configuracion temporal
+launchSettings.json
